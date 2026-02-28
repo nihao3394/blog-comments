@@ -1,6 +1,6 @@
 {
   "origins": [
-    "https://www.findingstar.top",
+    "www.findingstar.top",
     "localhost:4000" // 本地开发时的域名
   ]
 }
