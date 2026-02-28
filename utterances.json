@@ -1,3 +1,6 @@
 {
-  "origins": ["https://www.findingstar.top"]
+  "origins": [
+    "https://www.findingstar.top",
+    "localhost:4000"
+  ]
 }
